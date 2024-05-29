@@ -1,0 +1,7 @@
+{
+  "/[task]/page": "app/[task]/page.js",
+  "/[task]/download/page": "app/[task]/download/page.js",
+  "/[task]/download/[processedFile]/page": "app/[task]/download/[processedFile]/page.js",
+  "/page": "app/page.js",
+  "/api/route": "app/api/route.js"
+}
